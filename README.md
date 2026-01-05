@@ -200,8 +200,7 @@ try:
     print(data["data"]["response"])
 except requests.exceptions.RequestException as e:
     print(f"Error: {e}")
-    
-    ```
+```
 
 **Android (Kotlin - using Retrofit/OkHttp)**
 ```kotlin
