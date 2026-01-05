@@ -176,7 +176,7 @@ echo $result['data']['response'];
 ```
 
 **Python (Requests)**
-```phyton
+```python
 import requests
 import json
 
